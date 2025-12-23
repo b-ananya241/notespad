@@ -2,7 +2,12 @@
 
 A stylish and simple notes application built with React.js and Tailwind CSS. Create, edit, and delete text notes with instant autosave functionality.
 
-![NotesPad Preview](https://via.placeholder.com/800x400/6366f1/ffffff?text=NotesPad+Preview)
+<div align="center">
+  <img src="https://img.shields.io/badge/React-19.2.3-blue" alt="React Version">
+  <img src="https://img.shields.io/badge/TypeScript-5.9.3-blue" alt="TypeScript Version">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-4.1.18-blue" alt="Tailwind CSS Version">
+  <img src="https://img.shields.io/badge/Vite-7.3.0-yellow" alt="Vite Version">
+</div>
 
 ## ✨ Features
 
@@ -34,7 +39,7 @@ A stylish and simple notes application built with React.js and Tailwind CSS. Cre
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/b-ananya241/notespad.git
    cd notespad
    ```
 
