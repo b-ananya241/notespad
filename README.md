@@ -140,32 +140,6 @@ The app uses Tailwind CSS for styling with:
 - **Tailwind**: Utility-first CSS approach
 - **ESLint**: Code quality and consistency
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Development Guidelines
-
-- Follow TypeScript best practices
-- Use meaningful component and variable names
-- Add comments for complex logic
-- Test on multiple screen sizes
-- Ensure accessibility (alt text, keyboard navigation)
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🙋 Support
-
-If you have any questions or need help:
-- Open an issue on GitHub
-- Check the documentation above
-- Review the code comments in the source files
 
 ---
 
