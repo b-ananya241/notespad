@@ -143,6 +143,4 @@ The app uses Tailwind CSS for styling with:
 
 ---
 
-**Made with ❤️ using React & Tailwind CSS**
-
 Enjoy organizing your thoughts with NotesPad! 📝✨
